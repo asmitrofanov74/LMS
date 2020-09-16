@@ -1,4 +1,4 @@
-# LMS
+# Library Managmetn System with GUI 
 Library Management System
 
 Library Management System Application (LMS)
